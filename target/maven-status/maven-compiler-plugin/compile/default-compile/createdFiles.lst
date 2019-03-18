@@ -1,0 +1,9 @@
+com\watermark\app\loggers\Logger.class
+com\watermark\app\builders\Builder.class
+com\watermark\app\loggers\Color.class
+com\watermark\app\instruction\Instruction.class
+com\watermark\app\instruction\Folder.class
+com\watermark\app\loggers\Level.class
+com\watermark\app\models\FileModel.class
+com\watermark\app\App.class
+com\watermark\app\loggers\ILogger.class
